@@ -17,7 +17,7 @@ from drf_yasg import openapi
 schema_view = get_schema_view(
     openapi.Info(
         title="Second test",
-        default_version='0.801',
+        default_version='0.808',
         description="Fist test swagger",
         terms_of_service="https://www.youtube.com/watch?v=DEDXB2bAr9o&list=PLXPrA9Gm6TC1p9nmffSzaar_gp3SLh8ip&index=3",
         contact=openapi.Contact(email="#"),
